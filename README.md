@@ -6,4 +6,4 @@
 1. These are codes only without debugging on real time hardware components (i.e. educational BoosterPack).
 2. Some implementations are not finished.
 ## FreeRTOS
- Implementing applications that run on top of FreeRTOS[https://www.freertos.org] and TivaWare[http://www.ti.com/tool/SW-TM4C] Software Packs
+ Implementing applications that run on top of [FreeRTOS](https://www.freertos.org) and [TivaWare](http://www.ti.com/tool/SW-TM4C) Software Packs

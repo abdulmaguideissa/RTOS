@@ -1,0 +1,4 @@
+Developing with embedded linux gnu toolchain.
+- arm-none-eabi-gcc
+- arm-none-eabi-ld
+- arm-none-eabi-gdb
